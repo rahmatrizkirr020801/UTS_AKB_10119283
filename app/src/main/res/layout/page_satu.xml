@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  selasa 7 juni 2022, 1011983, Rahmatullah Rizki, IF7
+  -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_margin="50dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"
+        android:text="@string/txt_iprofile"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="320dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/txt_image"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"
+        android:text="Terdapat Menu Profil"/>
+
+</LinearLayout>
+</ScrollView>

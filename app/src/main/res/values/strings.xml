@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Aplikasi Komputasi Bergerak</string>
+    <string name="txt_image">Image</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_kelas">Kelas</string>
+    <string name="txt_nim">NIM</string>
+    <string name="txt_feature">Informasi yang disediakan aplikasi ini yaitu : </string>
+    <string name="txt_telp">Telepon</string>
+    <string name="txt_kontak">Silahkan hubungi kontak ini:</string>
+    <string name="txt_deskripsi">Deskripsi</string>
+    <string name="txt_identitas">Profil Saya</string>
+    <string name="txt_teman">Daftar Teman</string>
+    <string name="txt_info">Info Apps</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="txt_simpan">Simpan</string>
+    <string name="txt_add">Tambah</string>
+    <string name="txt_kembali">Kembali</string>
+    <string name="txt_email">Email</string>
+    <string name="inp_nim">Masukkan NIM</string>
+    <string name="inp_nama">Masukkan Nama</string>
+    <string name="inp_kelas">Masukkan Kelas</string>
+    <string name="inp_telp">Masukkan Nomor Telepon</string>
+    <string name="inp_email">Masukkan Email</string>
+    <string name="inp_sosmed">Masukkan Sosial Media</string>
+    <string name="txt_profile">Profil Saya</string>
+    <string name="txt_sosmed">Sosial Media</string>
+    <string name="txt_contact">Kontak Saya</string>
+    <string name="nim">10117214</string>
+    <string name="ket_profile">Menampilkan informasi pribadi.</string>
+    <string name="ket_kontak">Menampilkan informasi kontak yang dapat dihubungi.</string>
+    <string name="ket_daftar">Menampilkan informasi teman.</string>
+    <string name="nama">M Fathurrohman Mauludin</string>
+    <string name="info_tambah">Informasi Tambahan</string>
+    <string name="versi">1.00</string>
+    <string name="android"><b>Perlu Versi Android:</b>\n Lolipop (5.0) dan yang lebih tinggi</string>
+    <string name="versi_android"><b>Versi Aplikasi Saat Ini:</b> \n 1.00</string>
+    <string name="copy_right"><b>@copyright 2020</b></string>
+    <string name="size">5.50 MB</string>
+    <string name="action_settings">Setting</string>
+    <string name="swipe_kanan">swipe kanan</string>
+    <string name="swipe_kiri">swipe kiri</string>
+    <string name="txt_ubah"><b>Ubah Data Teman</b></string>
+    <string name="txt_tambah"><b>Tambah Data Teman</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_iprofile">Profile Saya</string>
+    <string name="txt_ikontak">Kontak Saya</string>
+    <string name="txt_idaftar">Daftar Teman</string>
+</resources>

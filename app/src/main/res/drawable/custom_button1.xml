@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  selasa 7 juni 2022, 1011983, Rahmatullah Rizki, IF7
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/colorPrimary"/>
+    <corners android:radius="10dp"/>
+</shape>

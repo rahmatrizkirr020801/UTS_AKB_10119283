@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  selasa 7 juni 2022, 1011983, Rahmatullah Rizki, IF7
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_identity"
+            android:icon="@drawable/ic_person"
+            android:title="@string/txt_identitas" />
+        <item
+            android:id="@+id/nav_catatan"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="Catatan" />
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/txt_info" />
+    </group>
+</menu>
